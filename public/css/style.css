@@ -4,21 +4,21 @@
   font-family: "oblique";
   font-size: 40px;
   
+  
 
 
   }
 body {
   background-image: url("http://www.psdgraphics.com/file/colorful-triangles-background.jpg");
-  background-size: 1270px 1000px;
+  background-repeat: no-repeat;
+  background-size: 100%; /*1270px 1000px;*/
   font-size: 18px;
   text-align: center;
   width: 98%;
 
-  
-  
 
-
-}
+  
+  }
 .fact {
   color: black;
   opacity: .5;
